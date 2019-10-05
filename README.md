@@ -13,12 +13,13 @@ I am deeply grateful to Peppe.
 - Deconstruction planner x1
 - Offshore Pump x10
 - Boiler x10
-- Pipe x10
+- Pipe x50
 - Steam Engine x10
 - Oil refinery x1
 - Assembling machine1 x5
 - Assembling machine2 x2
-- Steel Chest x1
+- Small electric pole x50
+- Steel chest x1
 - Lab x1
 - Science pack1 (red) x20
 
